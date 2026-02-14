@@ -2,6 +2,9 @@
 
 AutoChromia is a Streamlit web app that colorizes black-and-white images using a PyTorch checkpoint trained from `AutoChromia.ipynb`.
 
+<img width="1270" height="522" alt="AutoChromia" src="https://github.com/user-attachments/assets/103e0afc-6e6d-4afb-9617-b7e68c4c2830" />
+
+live : https://autochromia.onrender.com
 ## Features
 
 - Upload grayscale or old photos
